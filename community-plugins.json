@@ -64153,5 +64153,12 @@
     "author": "Ash Otis",
     "description": "Focus sessions for wandering minds: one task, a timer with breaks, a place to park stray thoughts, a calm screen that fades everything but your note, and what your music players or Spotify are playing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ashotis/lantern-focus"
+  },
+    {
+    "id": "exam-quiz-hub",
+    "name": "Exam & Quiz Hub",
+    "author": "D1pl3xx",
+    "description": "High-performance offline exam simulation, quiz hub and spaced repetition with 5-item MC scoring, crash recovery and intelligent error pool.",
+    "repo": "tobiasottost-cmd/obsidian-quiz-hub"
   }
 ]
